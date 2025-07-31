@@ -28,9 +28,8 @@ We therefore recommend that an investigation should be carried out on such cases
 
 2. Did the teachers understandably explain the concepts?
 
-<img width="994" height="821" alt="Capture3" src="https://github.com/user-attachments/assets/0689a839-c9fb-45c8-bdf2-e83858cbc738" />
-
-   
+<img width="999" height="854" alt="Capture4" src="https://github.com/user-attachments/assets/670ecfd1-b016-4486-896b-84452a36b9e9" />
+ 
 The average student feedback provides that the level with which the teachers understandably delivered their content is at 6.082, which is slightly above the average of 5. The boxen plot, however, suggests a broadly distributed perception without any clear consensus 
 towards any extreme. Nonetheless, with most responses falling between 4 and 8, we can conclude that the teachers explained the concepts in an understandable way. There is a higher concentration of feedback between 4 and 8.
 
@@ -45,8 +44,7 @@ We therefore recommend that we identify specific teachers and advise them to con
 
 3. Did the teachers use presentations in their delivery?
 
-<img width="994" height="821" alt="Capture3" src="https://github.com/user-attachments/assets/7735a644-3f77-44f7-9bc2-fc6344dfb22d" />
-
+<img width="1003" height="719" alt="Capture5" src="https://github.com/user-attachments/assets/ac567a59-867a-43b1-ad8e-a0c6fe0e6681" />
 
 The average student feedback is slightly above average, at 5.94, showing that the teachers did  actually use the presentations. The Histogram shows that the student counts based on their responses were significant numbers, all  above 150. 
 Additionally, the kde curve suggests as multi-modal distribution with no strong central tendency. 
@@ -58,7 +56,8 @@ We can consider offering training to the teachers on effective presentation desi
 
 4. What was the degree of difficulty of the assignments issued by the teachers?
 
-<img width="994" height="821" alt="Capture3" src="https://github.com/user-attachments/assets/32293589-d31c-4c29-abe0-d869a3b4a22d" />
+<img width="999" height="629" alt="Capture6" src="https://github.com/user-attachments/assets/c148a7fb-cd29-4bf6-a950-9c731073fe3b" />
+
 
 The box plot shows a mean of the feedback received as 5.43, with the majority of the feedback being above the average value, between 5 and 8. It also shows outliers of 1 and 10. It provides that the assignments issued to them had a high difficulty rate 
 Students have mixed reactions concerning this.
